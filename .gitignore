@@ -130,4 +130,4 @@ dist
 .pnp.*
 
 #angular
-.angular/cache/
+.angular/cache/**/*.pack
