@@ -5,6 +5,6 @@ import  {Component} from '@angular/core';
     templateUrl: './success-alert.component.html'
 })
 export class SuccessAlertComponent {
-    public title: string;
-    public message: string;
+    public title: string = "Success";
+    public message: string = "Success message";
 }
